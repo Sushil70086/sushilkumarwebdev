@@ -1,31 +1,54 @@
-# 🚘 BMW Cars Showcase Website
+# Hi 👋, I'm Sushil Kumar
 
-A modern and responsive BMW-inspired car showcase website built using HTML, CSS, and JavaScript.
+🚀 Front-End Developer passionate about building responsive and modern websites.
 
-## ✨ Features
-- Responsive Design
-- Modern UI/UX
-- Mobile-Friendly Layout
-- Interactive Sections
-- Premium Automotive Theme
+---
 
-## 🛠️ Technologies Used
+## 💻 Tech Stack
 - HTML5
 - CSS3
 - JavaScript
+- WordPress
+- Responsive Web Design
 
-## 🌐 Live Demo
+---
+
+## 🚘 Featured Projects
+
+### BMW Cars Showcase Website
+A premium BMW-inspired responsive website with modern UI/UX design.
+
+🌐 Live Demo:
 https://bavarian-web.lovable.app/
 
-## 📸 Project Preview
-(Add your thumbnail/screenshot here)
+---
 
-## 👨‍💻 Developed By
-Sushil Kumar
+### WebSeva Indian – Agency Website
+Professional web development agency website focused on responsive business solutions.
 
-## 📬 Connect With Me
-LinkedIn:
+🌐 Live Website:
+https://www.websevaindian.com/
+
+---
+
+## 🛠️ Tools & Platforms
+- GitHub
+- VS Code
+- ChatGPT
+- Google Gemini
+- Claude
+- Framer
+
+---
+
+## 📫 Connect With Me
+
+🔗 LinkedIn:
 https://linkedin.com/in/sushilkumarwebdev
 
-Website:
+🌐 Website:
 https://www.websevaindian.com/
+
+---
+
+⭐ Always learning and building modern digital experiences.
